@@ -20,7 +20,7 @@
    Alamat : Jln. Keledang RT.13 No.26
  
 4. Nama   : Ilham ILyas
-   NIM    : H2020000004
+   NIM    : H202000006
    JK     : Laki - Laki
    Agama  : Islam
    TTL    : Pinrang, 10 Maret 2003
