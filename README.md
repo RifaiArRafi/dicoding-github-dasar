@@ -1,6 +1,6 @@
 Dicoding-github-dasar
 ==
-Hello guys ini aku belajar buat readmex
+Hello guys ini aku belajar buat readme
 --
 *Ada beberapa hal yang harus dipelajari seperti membuat list*
 - ini list 1
