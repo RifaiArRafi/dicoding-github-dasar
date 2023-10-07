@@ -7,3 +7,4 @@ Hello guys ini aku belajar buat readme
 - ini list 2
 - ini list 3
 - ini list 4 baru belajar squash merge
+- aowkoawk
